@@ -3,7 +3,7 @@
 - db
 - diffdats (gerelateerd aan versioning)
 - multithreading
-- rar en 7z support (tosort iig)
+- rar and 7z support (tosort iig)
 - dir2dat
 - drag and drop
 - right click menus
